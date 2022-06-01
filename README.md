@@ -1,3 +1,4 @@
 # OPTIMIZATION FOR GAMES WINDOWS 10 PYTHON/BATCH/REG
-TEMPORARILY kills Windows to improve performance in games, 
-**THE CREATOR IS NOT RESPONSIBLE FOR YOUR ACTIONS!**
+<p>TEMPORARILY kills Windows to improve performance in games,</p>
+
+<p>**THE CREATOR IS NOT RESPONSIBLE FOR YOUR ACTIONS!**</p>
